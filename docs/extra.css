@@ -1,0 +1,9 @@
+.wy-nav-content {
+    max-width: 1290px;
+    min-height:1290px;
+}
+
+.wy-menu-vertical span {
+    font-size: 110%;
+    color: #CC6600;
+}
