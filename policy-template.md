@@ -20,7 +20,7 @@ This policy describes...
 
 ### Policy Statement  
 
-Text of the policy here
+Text of the policy here or there
 
 ### Background
 
