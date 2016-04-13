@@ -10,9 +10,9 @@ Date:  March 31, 2016
 
 
 > **Category**: Butler Library  
-> **Date Established**: 05/18/2015  
+> **Date Established**:
 > **Responsible Office:** Library Administration  
-> **Date Posted to Library**: 04/01/2016
+> **Date Posted to Library**: 
 
 ### POLICY SUMMARY
 

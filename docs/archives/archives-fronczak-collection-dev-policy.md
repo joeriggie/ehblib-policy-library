@@ -1,6 +1,42 @@
-**E. H. **
+<!---
+Title:  Collection development policy for the Fronczak Room Collections
+Author: Marc Bayer, Interim Library Director
+Date:  April 13th, 2016
+--->
 
-**The Fronczak Room Collections**
+![](https://s3.amazonaws.com/libapps/accounts/1965/images/policy-pages-header.png)
+
+## Collection Development Policy for the Fronczak Room Collections
+
+
+> **Category**: Butler Library  
+> **Date Established**:
+> **Responsible Office:** Library Administration  
+> **Date Posted to Library**:
+
+### POLICY SUMMARY
+
+This policy regards the collection development guidelines for the Fronczak Room Collections
+
+### Policy Statement  
+
+Forms of materials collected: Manuscripts, documents (passports, birth and death certificates, awards, academic records, and diplomas, etc.), correspondence, maps, books, pamphlets, off-prints, art and artifacts, photographs, cablegrams, scrapbooks, and oral histories.
+
+Topics of interest: Local histories, i.e., “Black Rock”, ), church and religious organizations, individuals (politicians, churchmen and women, military, educators, etc.), groups, i.e., fraternal, political, religious organizations), family photographs, businesses, speeches, monument dedications, cemeteries, conventions, celebrations, folklore, etc.
+
+Priorities and limitations of the collection: Documentation relating to the people and places in the early beginnings (1830-1900) of the Polish community in and the region as well as later development. Because of space limitations, large collections may be declined.
+
+De-accession policy: The library retains the right to microfilm, videotape, photograph or otherwise reproduce the collections for its use, and to dispose of any or all of the originals of the collections when, in the library’s opinion, such de-accession is desirable. Any duplication of materials in the collection may be disposed of and either donated to or traded to another organization.
+
+Exhibits: Original documents in the collections may not be removed from the room for the purpose of exhibits, unless special arrangements and security for the displayed items are made. Duplicate items in the collections may be loaned for exhibits.
+
+Copies of materials/photographs: Copies are available for a fee. Copies of materials in the collections are available for a fee of $.10 per page. Copies of photographs, either in photograph format or as scanned images are available at $5.00 per image depending on size of the original.
+
+Access to the collections: Access to the collections is by appointment. Questions or requests for access should be directed to the curator. The curator is available Monday – Friday from , and may be reached by telephone: 716-878-6208; e-mail: <slawinwm@buffalostate.edu>; or fax: 716-878-3163.
+
+Reference service: The curator will look for information on Polish topics not only in the collections of the Fronczak Room, but also in books of E. H. and on the internet. She is also available to translate, for a fee, documents from the Fronczak Room or the library. The curator can also suggest other resources in the area or Polish American institutions in the .
+
+### Background
 
 The Fronczak Room of E. H. was established in June of 1970 through the efforts of Dr. Walter M. Drzewieniecki., professor emeritus of the college and the then director of East European and Slavic Studies Program, and the former director of E. H. , Dr. Lucien Palmieri.
 
@@ -12,11 +48,7 @@ The other collections housed in this room include the Dr. Walter M. Drzewienieck
 
 The Fronczak Room houses anniversary books of Catholic parishes and organizations, local literary and historic publications, and a clipping file of more significant events in Polish American history. The room is a museum for historic portraits, photographs, paintings, medals and decorations, coins, flags and maps.
 
--2-
-
-**Mission Statement and Collection Policy for the Fronczak Room**
-
-**Statement**
+**Mission**
 
 The mission of the Fronczak Room is to identify, acquire, preserve, and make available the records, manuscripts, art and artifacts, correspondence, maps, photographs, audio-visuals, books and pamphlets, scrapbooks and memorabilia pertaining to people and events already noted in the collection relative to the Polish American history of Buffalo and the Niagara Frontier.
 
@@ -26,24 +58,23 @@ The collections in the Fronczak Room inspire the intellectual pursuit of informa
 
 The collections housed in the Fronczak Room are almost exclusively Polish American and due to space limitations and coordinated collection management in , the curator and the college archivist agree that the policy below shall govern the acquisition and maintenance of the collection.
 
-**Collection Policy**
+### Applicability
 
-Forms of materials collected: Manuscripts, documents (passports, birth and death certificates, awards, academic records, and diplomas, etc.), correspondence, maps, books, pamphlets, off-prints, art and artifacts, photographs, cablegrams, scrapbooks, and oral histories.
+This policy applies to all students, faculty and staff.
 
-Topics of interest: Local histories, i.e., “Black Rock”, ), church and religious organizations, individuals (politicians, churchmen and women, military, educators, etc.), groups, i.e., fraternal, political, religious organizations), family photographs, businesses, speeches, monument dedications, cemeteries, conventions, celebrations, folklore, etc.
+### Responsibility
 
--3-
+Library Director, Head of Archives and Special Collections
 
-Priorities and limitations of the collection: Documentation relating to the people and places in the early beginnings (1830-1900) of the Polish community in and the region as well as later development. Because of space limitations, large collections may be declined.
+**Contact**
 
-De-accession policy: The library retains the right to microfilm, videotape, photograph or otherwise reproduce the collections for its use, and to dispose of any or all of the originals of the collections when, in the library’s opinion, such de-accession is desirable. Any duplication of materials in the collection may be disposed of and either donated to or traded to another organization.
+Butler Library    
+1300 Elmwood Avenue  
+Buffalo, NY 14222  
+Phone: (716) 878-6300  
+Website: [*http://library.buffalostate.edu/*](http://library.buffalostate.edu/)  
+E-mail: [*library@buffalostate.edu *](mailto:library@buffalostate.edu)
 
-Exhibits: Original documents in the collections may not be removed from the room for the purpose of exhibits, unless special arrangements and security for the displayed items are made. Duplicate items in the collections may be loaned for exhibits.
-
-Copies of materials/photographs: Copies are available for a fee.
-
-Access to the collections: Access to the collections is by appointment. Questions or requests for access should be directed to the curator. The curator is available Monday – Friday from , and may be reached by telephone: 716-878-6208; e-mail: <slawinwm@buffalostate.edu>; or fax: 716-878-3163.
-
-Reference service: The curator will look for information on Polish topics not only in the collections of the Fronczak Room, but also in books of E. H. and on the internet. She is also available to translate, for a fee, documents from the Fronczak Room or the library. The curator can also suggest other resources in the area or Polish American institutions in the .
+**Last Revised**
 
 March 25, 2004
