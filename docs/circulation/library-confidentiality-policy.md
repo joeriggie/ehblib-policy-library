@@ -90,7 +90,7 @@ PERSONNEL RECORDS
 LEGAL PROCEEDINGS 
 ==================
 
-Occasionally, law enforcement personnel have a legitimate need to consult confidential library records in the course of a criminal investigation or prosecution. In that event, the judicial system provides a specific mechanism for seeking release of confidential library recordsthe issuance of a **Court Order**.
+Occasionally, law enforcement personnel have a legitimate need to consult confidential library records in the course of a criminal investigation or prosecution. In that event, the judicial system provides a specific mechanism for seeking release of confidential library records the issuance of a **Court Order**.
 
 When pressed for information or when presented with a Court Order, library personnel should immediately refer the matter to the Department Head or to the Library Director. It is college policy that the Office of the Vice President for Finance and Management (Grover Cleveland Hall 505, 878-4311) will handle all legal proceedings. If no administrative personnel are available, e.g. evenings and weekends, refer the matter to University Police (Chase Hall 110, 878-6333).
 
